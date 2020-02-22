@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">>
+	<file t3:id="1582406145" source-language="en" datatype="plaintext" original="messages" date="2020-02-22T21:15:45Z" product-name="t3security_news_widget">
+		<header/>
+		<body>
+			<trans-unit id="widgets.t3securityNews.title" xml:space="preserve">
+				<source>TYPO3 security news</source>
+			</trans-unit>
+			<trans-unit id="widgets.t3securityNews.description" xml:space="preserve">
+				<source>Add a list of secruity news items from the TYPO3 project</source>
+			</trans-unit>
+			<trans-unit id="widgets.t3securityNews.moreItems" xml:space="preserve">
+				<source>More TYPO3 security news</source>
+			</trans-unit>
+
+			<trans-unit id="presets.custom" xml:space="preserve">
+				<source>Custom dashboard</source>
+			</trans-unit>
+			<trans-unit id="presets.custom.description" xml:space="preserve">
+				<source>Create a new dashboard with custom TYPO3 widgets on it</source>
+			</trans-unit>
+
+			<trans-unit id="widget_group.custom" xml:space="preserve">
+				<source>Custom</source>
+ 			</trans-unit>
+		</body>
+	</file>
+</xliff>

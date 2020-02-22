@@ -1,0 +1,27 @@
+{
+	"name": "bo/t3security_news_widget",
+	"license": "GPL-3.0",
+	"keywords": ["TYPO3 CMS"],
+	"authors": [
+		{
+			"name": "Oliver Bartsch",
+			"email": "bo@cedev.de"
+		}
+	],
+	"description": "Widget for the dashboard which displays latest TYPO3 security news",
+	"require-dev": {
+		"roave/security-advisories": "dev-master"
+	},
+	"require": {
+		"php": ">=7.2.0",
+		"typo3/cms-core": "10.3.*@dev",
+		"typo3/cms-dashboard": "10.3.*@dev"
+	},
+	"type": "typo3-cms-extension",
+	"version": "0.0.1",
+	"autoload": {
+		"psr-4": {
+			"Bo\\SecurityNewsWidget\\": "Classes"
+		}
+	}
+}
