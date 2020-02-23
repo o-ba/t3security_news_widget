@@ -8,7 +8,7 @@
 			"email": "bo@cedev.de"
 		}
 	],
-	"description": "Widget for the dashboard which displays latest TYPO3 security news",
+	"description": "Widget for the dashboard which displays latest TYPO3 security news.",
 	"require-dev": {
 		"roave/security-advisories": "dev-master"
 	},
@@ -18,7 +18,7 @@
 		"typo3/cms-dashboard": "10.3.*@dev"
 	},
 	"type": "typo3-cms-extension",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"autoload": {
 		"psr-4": {
 			"Bo\\SecurityNewsWidget\\": "Classes"
