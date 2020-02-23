@@ -3,9 +3,9 @@ services:
   Bo\SecurityNewsWidget\:
     resource: '../Classes/*'
 
-  t3securityNews:
-    class: Bo\SecurityNewsWidget\Widgets\T3SecurityNewsWidget
+  Bo\SecurityNewsWidget\Widgets\T3SecurityNewsWidget:
     arguments: ['t3securityNews']
     tags:
       - name: dashboard.widget
+        identifier: t3securityNews
         widgetGroups: 'custom'
