@@ -18,7 +18,7 @@
 		"typo3/cms-dashboard": "10.3.*@dev"
 	},
 	"type": "typo3-cms-extension",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"autoload": {
 		"psr-4": {
 			"Bo\\SecurityNewsWidget\\": "Classes"
