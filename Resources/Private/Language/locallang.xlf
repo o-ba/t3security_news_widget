@@ -7,7 +7,7 @@
 				<source>TYPO3 security news</source>
 			</trans-unit>
 			<trans-unit id="widgets.t3securityNews.description" xml:space="preserve">
-				<source>Add a list of secruity news items from the TYPO3 project</source>
+				<source>Add a list of security news items from the TYPO3 project.</source>
 			</trans-unit>
 			<trans-unit id="widgets.t3securityNews.moreItems" xml:space="preserve">
 				<source>More TYPO3 security news</source>
@@ -17,11 +17,11 @@
 				<source>Custom dashboard</source>
 			</trans-unit>
 			<trans-unit id="presets.custom.description" xml:space="preserve">
-				<source>Create a new dashboard with custom TYPO3 widgets on it</source>
+				<source>Create a new dashboard with custom TYPO3 widgets on it.</source>
 			</trans-unit>
 
 			<trans-unit id="widget_group.custom" xml:space="preserve">
-				<source>Custom</source>
+				<source>Custom widgets</source>
  			</trans-unit>
 		</body>
 	</file>

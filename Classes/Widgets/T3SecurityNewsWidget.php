@@ -14,10 +14,10 @@ use TYPO3\CMS\Dashboard\Widgets\AbstractRssWidget;
 class T3SecurityNewsWidget extends AbstractRssWidget
 {
     protected $rssFile = 'https://typo3.org/?type=101';
-    protected $lifeTime = 43200;
+    protected $lifeTime = 3600;
     protected $title = 'LLL:EXT:t3security_news_widget/Resources/Private/Language/locallang.xlf:widgets.t3securityNews.title';
     protected $description = 'LLL:EXT:t3security_news_widget/Resources/Private/Language/locallang.xlf:widgets.t3securityNews.description';
-    protected $iconIdentifier = 'content-widget-rss';
+    protected $iconIdentifier = 'tx-t3security_news_widget-widget-icon';
     protected $moreItemsLink = 'https://typo3.org/help/security-advisories';
     protected $moreItemsText = 'LLL:EXT:t3security_news_widget/Resources/Private/Language/locallang.xlf:widgets.t3securityNews.moreItems';
 }
