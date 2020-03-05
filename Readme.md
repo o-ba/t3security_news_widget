@@ -21,4 +21,10 @@ and upload it in the extension manager module.
 
 This extension is intended as an example extension for adding a custom widget including a custom widget group in TYPO3.
 
+## 3. Credits
+
+Icons used in this repository are made by [Freepik][2] from [www.flaticon.com][3]
+
 [1]: https://extensions.typo3.org/extension/t3security_news_widget
+[2]: https://www.flaticon.com/authors/freepik
+[3]: http://www.flaticon.com
