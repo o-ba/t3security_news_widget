@@ -4,7 +4,7 @@
 
 This extension adds a new widget to the dashboard module which displays the latest TYPO3 security news.
 
-This only works with TYPO3 v10.3 and later.
+This only works with TYPO3 v10.3 as the widget registration was reworked afterwards.
 
 ### Installation
 

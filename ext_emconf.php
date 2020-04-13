@@ -8,7 +8,7 @@ $EM_CONF[$_EXTKEY] = [
     'author_company' => '',
     'state' => 'beta',
     'clearCacheOnLoad' => true,
-    'version' => '0.1.5',
+    'version' => '0.2.0',
     'autoload' => [
         'psr-4' => [
             'Bo\\SecurityNewsWidget\\' => 'Classes'
@@ -16,7 +16,7 @@ $EM_CONF[$_EXTKEY] = [
     ],
     'constraints' => [
         'depends' => [
-            'typo3' => '10.3.0-10.99.99',
+            'typo3' => '10.3.*',
             'php' => '7.2.0-7.4.99'
         ],
         'conflicts' => [],
